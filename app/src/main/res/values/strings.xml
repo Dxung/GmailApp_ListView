@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GmailApp_ListView</string>
+    <string name="gmail_circle_icon">C</string>
+    <string name="gmail_name_icon">gmail_name_icon</string>
+    <string name="mail_type_icon">mail_type_icon</string>
+    <string name="first_initial_sender_name">Dxung</string>
+    <string name="mail_content_demo">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod lobortis augue id bibendum. Phasellus a orci elementum, tempus massa vel, commodo metus. Nulla porttitor maximus felis. Sed rhoncus ex porttitor, mattis arcu eu, aliquet ex. Nullam auctor, dolor ac lacinia fermentum, sapien elit faucibus metus, ut suscipit felis nunc et sem. Fusce vel leo ac nisl egestas consectetur. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed in sem eget tortor vestibulum dictum. Curabitur nisl libero, vehicula eu mauris eu, rhoncus pellentesque magna. Fusce in eros eget velit efficitur maximus. Pellentesque consequat nisi at ex maximus sagittis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis bibendum consectetur mollis. Vestibulum urna diam, mollis id risus vitae, placerat consectetur felis.</string>
+    <string name="time_text">12:34PM</string>
+    <string name="search_button_icon_MENU">Search</string>
+    <string name="hamburger_icon_description">hamburger_icon</string>
+    <string name="toolbar_name_text">Inbox</string>
+    <string name="button_new_mail">button_new_mail</string>
+    <string name="test">test</string>
+</resources>
